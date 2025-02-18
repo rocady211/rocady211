@@ -1,5 +1,7 @@
 # 👋 ¡Hola! Soy Rodrigo Olivera
 
+Este es mi nuevo github, el anterior es  https://github.com/rocady21
+
 Soy un apasionado **Desarrollador Web/Mobile** con un enfoque en crear experiencias de usuario excepcionales y asegurar un rendimiento óptimo en todos los proyectos. Me encantan los **desafíos**, adaptarme a nuevas tecnologías y crear **diseños innovadores**. 🚀
 
 > "Cada línea de código es una oportunidad para mejorar y aprender algo nuevo." 
